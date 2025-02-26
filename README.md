@@ -1,6 +1,6 @@
 #### Copyright Armasu Octavian
 
-## APD - Homework 1 - Map-Reduce 
+## Map-Reduce 
 
 ### Problem statement
 
